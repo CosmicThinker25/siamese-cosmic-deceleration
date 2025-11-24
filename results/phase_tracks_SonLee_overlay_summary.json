@@ -1,0 +1,24 @@
+{
+  "input_contours_csv": "..\\data\\SonLee_contours.csv",
+  "gamma_values": [
+    1.0,
+    1.5,
+    2.0
+  ],
+  "delta_phi_max_rad": 1.319468914507713,
+  "w0_axis_limits": [
+    -1.1,
+    -0.2
+  ],
+  "wa_axis_limits": [
+    -2.6,
+    -1.2
+  ],
+  "SonLee_mean_w0": -0.33575983769686957,
+  "SonLee_mean_wa": -1.9064285795792428,
+  "reference_siamese_point": {
+    "w0": -0.7,
+    "wa": -1.8
+  },
+  "figure_path": "..\\figures\\phase_tracks_SonLee_overlay.png"
+}
