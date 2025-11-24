@@ -1,0 +1,15 @@
+{
+    "N_GAL": 100000,
+    "Z_MAX": 1.5,
+    "Z0": 0.9,
+    "Q0_FID": -0.23,
+    "DELTA_Q0_ANISO": 0.05,
+    "SIGMA_Q": 0.03,
+    "Z_ANISO_MAX": 0.7,
+    "N_ROT": 2000,
+    "mean_noise": -0.0001380384041607231,
+    "sigma_noise": 0.004097281522400503,
+    "delta_q0_siamese": 0.00952478047940336,
+    "z_score": 2.358348780950463,
+    "p_value_right_tail": 0.0
+}
